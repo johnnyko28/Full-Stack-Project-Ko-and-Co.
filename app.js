@@ -16,7 +16,7 @@ var commentRoutes = require("./routes/comments"),
     productRoutes = require("./routes/products"),
     indexRoutes   = require("./routes/index") 
     
-mongoose.connect("mongodb+srv://johnnyko28:aB!03350303@cluster0-k3hzd.mongodb.net/test?retryWrites=true");
+mongoose.connect("mongodb+srv://johnnyko28:aB%4003350303@cluster0-k3hzd.mongodb.net/test?retryWrites=true");
 //mongoose.connect("mongodb://localhost/shopping");
 
 
