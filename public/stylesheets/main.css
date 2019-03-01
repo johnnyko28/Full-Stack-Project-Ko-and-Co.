@@ -1,0 +1,22 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+.jumbotron {
+    background-image: url(
+    https://images.unsplash.com/photo-1445102451117-84e2b4f715c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+    );
+    height: 100%;
+}
