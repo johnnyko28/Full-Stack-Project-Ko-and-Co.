@@ -6,23 +6,20 @@
 
 Each Campground has:
 
-⋅⋅* Name
-⋅⋅* Image
+* Name
+* Image
 
 ### Layout and Basic Styling
 
-Create our header and footer partials<br>
-Add in Bootstrap
+* Create our header and footer partials
+* Add in Bootstrap
 
 ### Creating New Campgrounds
 
-Setup new campground POST route
-
-Add in body-parser
-
-Setup route to show form
-
-Add basic unstyled form
+* Setup new campground POST route
+* Add in body-parser
+* Setup route to show form
+* Add basic unstyled form
 
 ### Style the campgrounds page
 
