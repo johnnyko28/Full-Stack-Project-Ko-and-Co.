@@ -3,6 +3,7 @@
 https://johnnyko.herokuapp.com/
 
 I spent one month taking this online course and made a new full stack web project.
+
 https://www.udemy.com/the-web-developer-bootcamp/
 
 
