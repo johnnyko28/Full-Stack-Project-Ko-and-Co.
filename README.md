@@ -4,12 +4,7 @@ https://johnnyko.herokuapp.com/
 
 ![image](https://github.com/johnnyko28/Full-Stack-Project-Ko-and-Co./blob/master/Screenshot%202019-03-01%2017.55.38.png)
 
-
-It is an online shopping website. I spent one month taking this online course and made this new full stack web project.
-
-https://www.udemy.com/the-web-developer-bootcamp/
-
-
+It is an online shopping website. Use NodeJS to write server-side JavaScript, Express and MongoDB to create full-stack JS applications. I spent one month taking the online course (https://www.udemy.com/the-web-developer-bootcamp) and made this new web project. 
 
 # 
 
