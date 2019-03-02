@@ -4,7 +4,8 @@
 Add Landing Page <br>
 Add Campgrounds Page that lists all campgrounds<br>
 
-Each Campground has:<br>
+Each Campground has:
+
 Name<br> 
 Image
 
