@@ -1,13 +1,13 @@
 
 ### Initial Setup
 
-Add Landing Page <br>
-Add Campgrounds Page that lists all campgrounds
+⋅⋅* Add Landing Page
+⋅⋅* Add Campgrounds Page that lists all campgrounds
 
 Each Campground has:
 
-Name<br> 
-Image
+⋅⋅* Name
+⋅⋅* Image
 
 ### Layout and Basic Styling
 
