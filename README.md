@@ -6,7 +6,7 @@ I spent one month taking this online course and made a new full stack web projec
 
 https://www.udemy.com/the-web-developer-bootcamp/
 
-===
+==========
 ### Initial Setup
 * Add Landing Page
 * Add Campgrounds Page that lists all campgrounds
