@@ -1,22 +1,96 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+##Initial Setup
 
+Add Landing Page
+Add Campgrounds Page that lists all campgrounds
+Each Campground has:
 
-Welcome to your Node.js project on Cloud9 IDE!
+Name
+Image
+##Layout and Basic Styling
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+Create our header and footer partials
+Add in Bootstrap
+##Creating New Campgrounds
 
-## Running the server
+Setup new campground POST route
+Add in body-parser
+Setup route to show form
+Add basic unstyled form
+##Style the campgrounds page
 
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
+Add a better header/title
+Make campgrounds display in a grid
+##Style the Navbar and Form
 
-2) Alternatively you can launch the app from the Terminal:
+Add a navbar to all templates
+Style the new campground form
+##Add Mongoose
 
-    $ node server.js
+Install and configure Mongoose
+Setup campground model
+Use campground model inside of our routes
+##Show Page
 
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+Review the RESTful routes we've seen so far
+Add description to our campground model
+Show db.collection.drop()
+Add a show route/template
+##Refactor Mongoose Code
+
+Create a models directory
+Use module.exports
+Require everything correctly!
+##Add Seeds File
+
+Add a seeds.js file
+Run the seeds file every time the server starts
+##Add the Comment model!
+
+Make our errors go away!
+Display comments on campground show page
+##Comment New/Create
+
+Discuss nested routes
+Add the comment new and create routes
+Add the new comment form
+##Style Show Page
+
+Add sidebar to show page
+Display comments nicely
+##Finish Styling Show Page
+
+Add public directory
+Add custom stylesheet
+##Auth Pt. 1 - Add User Model
+
+Install all packages needed for auth
+Define User model
+##Auth Pt. 2 - Register
+
+Configure Passport
+Add register routes
+Add register template
+##Auth Pt. 3 - Login
+
+Add login routes
+Add login template
+##Auth Pt. 4 - Logout/Navbar
+
+Add logout route
+Prevent user from adding a comment if not signed in
+Add links to navbar
+##Auth Pt. 5 - Show/Hide Links
+
+Show/hide auth links in navbar
+##Refactor The Routes
+
+Use Express router to reoragnize all routes
+##Users + Comments
+
+Associate users and comments
+Save author's name to a comment automatically
+##Users + Campgrounds
+
+Prevent an unauthenticated user from creating a campground
+Save username+id to newly created campground
