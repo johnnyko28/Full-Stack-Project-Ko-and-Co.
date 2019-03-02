@@ -1,3 +1,8 @@
+Full Stack Web Development Project: Ko & Company
+https://johnnyko.herokuapp.com/
+
+
+
 
 ### Initial Setup
 * Add Landing Page
