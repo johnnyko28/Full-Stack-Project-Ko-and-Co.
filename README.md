@@ -1,4 +1,5 @@
-Full Stack Web Development Project: Ko & Company
+## Full Stack Web Development Project: Ko & Company
+
 https://johnnyko.herokuapp.com/
 
 
