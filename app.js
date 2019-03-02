@@ -15,7 +15,9 @@ var express     = require("express"),
 var commentRoutes = require("./routes/comments"),
     productRoutes = require("./routes/products"),
     indexRoutes   = require("./routes/index") 
-    
+
+
+// mlab setup    
 mongoose.connect("mongodb+srv://johnnyko28:aB!03350303@cluster0-k3hzd.mongodb.net/test?retryWrites=true");
 //mongoose.connect("mongodb://localhost/shopping");
 
