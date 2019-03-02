@@ -7,7 +7,8 @@ It is an online shopping website. I spent one month taking this online course an
 
 https://www.udemy.com/the-web-developer-bootcamp/
 
----
+
+
 ### Initial Setup
 * Add Landing Page
 * Add Campgrounds Page that lists all campgrounds
