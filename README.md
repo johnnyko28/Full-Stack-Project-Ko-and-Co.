@@ -2,7 +2,7 @@
 ### Initial Setup
 
 Add Landing Page <br>
-Add Campgrounds Page that lists all campgrounds<br>
+Add Campgrounds Page that lists all campgrounds
 
 Each Campground has:
 
@@ -11,8 +11,7 @@ Image
 
 ### Layout and Basic Styling
 
-Create our header and footer partials
-
+Create our header and footer partials<br>
 Add in Bootstrap
 
 ### Creating New Campgrounds
