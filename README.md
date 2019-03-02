@@ -2,7 +2,7 @@
 
 https://johnnyko.herokuapp.com/
 
-![image](Full-Stack-Project-Ko-and-Co./Screenshot 2019-03-01 17.55.38.png)
+![image](https://github.com/johnnyko28/Full-Stack-Project-Ko-and-Co./blob/master/Screenshot%202019-03-01%2017.55.38.png)
 
 
 It is an online shopping website. I spent one month taking this online course and made this new full stack web project.
