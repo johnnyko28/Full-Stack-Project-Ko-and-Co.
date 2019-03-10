@@ -6,6 +6,7 @@ https://johnnyko.herokuapp.com/
 
 It is an online shopping website. Use NodeJS to write server-side JavaScript, Express and MongoDB to create full-stack JS applications. I spent one month taking the online course (https://www.udemy.com/the-web-developer-bootcamp) and made this new web project. 
 
+
 # 
 ### Initial Setup
 * Add Landing Page
