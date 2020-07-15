@@ -1,6 +1,6 @@
 ## Full Stack Web Development Project: Ko & Company
 
-https://johnnyko.herokuapp.com/
+Demo link: https://johnnyko.herokuapp.com/
 
 ![image](https://github.com/johnnyko28/Full-Stack-Project-Ko-and-Co./blob/master/Screenshot%202019-03-01%2017.55.38.png)
 
